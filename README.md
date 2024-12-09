@@ -3,4 +3,4 @@ A spreadsheet-like application with limited features, inspired by Google Sheets.
 
 A detailed documentation of the project's technical specifications and features is available here:
 
-[readmeForProject](readmeForProject.pdf)
+[ReadmeForProject](readmeForProject.pdf)
